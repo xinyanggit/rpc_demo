@@ -1,0 +1,4 @@
+com\yx\pub\dto\RPCTransformObj.class
+com\yx\pub\rpc\ServierMapped.class
+com\yx\pub\rpc\UserService.class
+com\yx\pub\dto\UserDTO.class
